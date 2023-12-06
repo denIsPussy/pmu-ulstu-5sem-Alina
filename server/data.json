@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "ПИбд-21"
+    },
+    {
+      "id": 2,
+      "name": "ПИбд-22"
+    },
+    {
+      "name": "ПИбд-23",
+      "id": 3
+    }
+  ],
+  "students": [
+    {
+      "id": 2,
+      "firstName": "Test22244",
+      "lastName": "Test2",
+      "groupId": 2,
+      "phone": "Phone2",
+      "email": "Email2"
+    },
+    {
+      "firstName": "Test3",
+      "lastName": "Test3",
+      "groupId": 1,
+      "phone": "Phone3",
+      "email": "Email3",
+      "id": 3
+    },
+    {
+      "firstName": "werwerwe",
+      "lastName": "werwer",
+      "groupId": 1,
+      "phone": "sefswer",
+      "email": "werwer",
+      "id": 4
+    }
+  ]
+}
